@@ -1,4 +1,4 @@
-# C++ Practice
+# cpp practice
 
 A collection of C++ practice programs created while learning and strengthening my programming fundamentals.
 
